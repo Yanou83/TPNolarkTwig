@@ -1,0 +1,13 @@
+{
+    "name": "vendor/t-p11-correction-nolark",
+    "description": "Description of project TP11_Correction_Nolark.",
+    "authors": [
+        {
+            "name": "yann.montenot",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "twig/twig": "v2.5.0"
+    }
+}
